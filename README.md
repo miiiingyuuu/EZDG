@@ -1,9 +1,10 @@
 <h3>SSAFY 11기 2학기 자율 프로젝트</h3>
-![image](/uploads/a599f2681a5cffea8a242278a4e31d5e/image.png)
+![Image](https://github.com/user-attachments/assets/5c0450b0-c0f2-4c02-8de5-d16780cbcd27)
+
 </br>
 
 <div align="center">
-<![image](/uploads/a599f2681a5cffea8a242278a4e31d5e/image.png)" style="width:300px ">
+![Image](https://github.com/user-attachments/assets/e624bb41-7fe0-4921-a275-a984e5ebd81f)
 </div>
 
 
@@ -108,31 +109,32 @@
 ## 가이드 페이지 
 
 ### 메인 페이지 
-![EZDG_-_Chrome_2024-11-18_20-43-48](/uploads/eded36693883f0fa9b1472e49af7ceef/EZDG_-_Chrome_2024-11-18_20-43-48.gif)
+![Image](https://github.com/user-attachments/assets/e0988ee9-3bb2-4940-86cf-2ffc68eac094)
 ### 검색 기능
-![EZDG_-_Chrome_2024-11-18_20-44-52](/uploads/4f5713af43feb223a2e0ef6ccf12880c/EZDG_-_Chrome_2024-11-18_20-44-52.gif)
+![Image](https://github.com/user-attachments/assets/abeb61a0-9aed-4aa5-ade1-e451ad32a4ff)
 ### 설치 가이드 
-![EZDG_-_Chrome_2024-11-18_20-45-09__1_](/uploads/73189ed9d80bbdf5ac52807829ce34c5/EZDG_-_Chrome_2024-11-18_20-45-09__1_.gif)
+![Image](https://github.com/user-attachments/assets/ee2b3273-5eaf-46b2-9f4e-7c39c56387de)
 
 ## 예시프로젝트 - 대구의 자랑
-![대구의_자랑_-_Chrome_2024-11-18_14-49-00](/uploads/f80384aecaa80ffb7851edb91d55d59a/대구의_자랑_-_Chrome_2024-11-18_14-49-00.gif)
+![Image](https://github.com/user-attachments/assets/d28ca299-9caa-4d95-8fca-2630550e8139)
 
 ## 예시프로젝트 - Find My Company!
-![기업_기본_정보_조회_-_Chrome_2024-11-18_14-25-12](/uploads/374606ad619279dace61abe1224c9944/기업_기본_정보_조회_-_Chrome_2024-11-18_14-25-12.gif)
+![Image](https://github.com/user-attachments/assets/fa324e61-20c3-4bd9-844e-5142d969589c)
 
 ## 관리자 페이지
+![Image](https://github.com/user-attachments/assets/fd1b5a84-f45e-4f78-809c-c61e2051e621)
 
 ### API 등록 및 공공데이터 포털 크롤링
-![api-등록-크롤링](/uploads/b02007ecd0a87f72a7a354d4ff31cd91/api-등록-크롤링.gif)
+![Image](https://github.com/user-attachments/assets/5f2cee2c-9d8c-482c-bda9-8f52995469b7)
 
 ### API 크롤링 결과 확인 및 저장
-![api-등록-결과-저장](/uploads/ec2da23a41af49a58af37b9e4f9660f9/api-등록-결과-저장.gif)
+![Image](https://github.com/user-attachments/assets/3b26a8e2-aefe-4733-ba18-9270ba9dae31)
 
 ### 파일 등록 
-![파일-등록-업로드](/uploads/477c1848b35249e5096d3a99de45d1af/파일-등록-업로드.gif)
+![Image](https://github.com/user-attachments/assets/de036ac1-6ce8-4e64-a181-154c610c4d09)
 
 ### 파일 컬럼명 번역
-![파일-등록-번역](/uploads/8c690c44b1f6b12b9e9d498f6a3796a5/파일-등록-번역.gif)
+![Image](https://github.com/user-attachments/assets/d5fa5d54-9b5d-4240-905a-da4bd5a9c890)
 
 ### 라이브러리 배포
-![파일-배포-현황](/uploads/e1c7edcb48f2ec1b9b99759c40904b9b/파일-배포-현황.gif)
+![Image](https://github.com/user-attachments/assets/e701f94f-3f08-469d-bbf0-c1b0c2c3cce1)
