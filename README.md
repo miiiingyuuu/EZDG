@@ -54,7 +54,7 @@
 </br>
 </br>
 <h1>Architecture</h1>
-![image](/uploads/7bba05073e56303f04d0d46d997df3ab/image.png)
+![Image](https://github.com/user-attachments/assets/2ac68300-c801-4233-a075-e944b33fad3f)
 
 # 소개
 
