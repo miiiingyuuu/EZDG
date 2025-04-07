@@ -1,13 +1,5 @@
 <h3>SSAFY 11기 2학기 자율 프로젝트</h3>
-![Image](https://github.com/user-attachments/assets/5c0450b0-c0f2-4c02-8de5-d16780cbcd27)
-
-</br>
-
-<div align="center">
-![Image](https://github.com/user-attachments/assets/e624bb41-7fe0-4921-a275-a984e5ebd81f)
-</div>
-
-
+![Image](https://github.com/user-attachments/assets/c1da2f4e-9823-4967-86a0-cf4895fa3dfd)
 
 # 팀원 소개
 
